@@ -25,7 +25,8 @@ Then run the following commands
  - php artisan migrate
  - php artisan serve 
 
-
+**visit browser**
+http://localhost:8000/
  **Also This Project runs on php 8.1+** 
 
  **If any problem with composer arises delete composer.lock file and vendor folder from project directory then run composer install again** 
